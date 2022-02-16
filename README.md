@@ -15,7 +15,7 @@
 
 ![Github Languages](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 
-![Github Statistics](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/0-profile-details.svg)
+![Github Statistics](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/3-stats.svg)
 
 
 ### Let's connect? 🤝
