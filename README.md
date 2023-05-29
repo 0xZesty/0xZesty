@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <img alt="github-snake" src="snake-dark.svg" />
+</picture>
+
+
 ### Skill & Languages & Tools 🛠  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
