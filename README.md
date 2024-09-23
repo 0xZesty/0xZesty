@@ -21,7 +21,7 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzesty&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github Statistics](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/3-stats.svg)
 
