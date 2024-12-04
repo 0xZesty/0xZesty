@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzesty&layout=donut-vertical&theme=omni)
 
-![Github Statistics](https://raw.githubusercontent.com/Cr3ativeLZ/Cr3ativeLZ/master/profile-summary-card-output/dracula/3-stats.svg)
+![Github Statistics](https://raw.githubusercontent.com/0xZesty/0xZesty/master/profile-summary-card-output/omni/3-stats.svg)
 
 
 ### Let's connect? 🤝
