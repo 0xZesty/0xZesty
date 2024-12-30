@@ -7,7 +7,7 @@
 ### Skill & Languages & Tools 🛠  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![Security](https://img.shields.io/badge/-Security-05122A?style=flat&logo=hackaday&color=black)&nbsp;
-![AppSec](https://img.shields.io/badge/AppSec-F6C915?style=flat&logo=github-actions&logoColor=white)&nbsp;
+<!--![AppSec](https://img.shields.io/badge/AppSec-F6C915?style=flat&logo=github-actions&logoColor=white)&nbsp;-->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
